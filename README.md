@@ -9,4 +9,5 @@ e.g. `node flattenArray.js [[1,2,[3]],4]`
 
 ### Example
 Input: [[1,2,[3,5,9]],4,[6,2]]
+
 Output: [ 1, 2, 3, 5, 9, 4, 6, 2 ]
